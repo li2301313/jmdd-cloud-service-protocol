@@ -1,0 +1,13 @@
+{
+    "name": "jdmm/vhub-cloud-service-protocol",
+    "type": "library",
+    "description": "cloud-service包",
+    "license": "Apache-2.0",
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Jdmm\\VhubCloudService\\Protocol\\": "src/"
+        }
+    }
+}
